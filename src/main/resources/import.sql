@@ -8,6 +8,7 @@ INSERT INTO regiones(`descripcion`,`nombre`) VALUES ('Esta regon es bien nomas c
 INSERT INTO regiones(`descripcion`,`nombre`) VALUES ('Esta regon es bien nomas che el BENI','BENI');
 INSERT INTO regiones(`descripcion`,`nombre`) VALUES ('Esta regon es bien nomas che el SANTA','SANTA CRUZ');
 
+
 INSERT INTO clientes (`apellido`, `created_at`, `email`, `nombre`,`region_id`) VALUES ('Flores', '2022-09-07', 'jjjoelcito1231@gmail.com', 'Joel Jonathan',1);
 INSERT INTO clientes (`apellido`, `created_at`, `email`, `nombre`,`region_id`) VALUES ('Flores', '2022-09-07', 'luis1@gmail.com', 'Luis Fernando',1);
 INSERT INTO clientes (`apellido`, `created_at`, `email`, `nombre`,`region_id`) VALUES ('Ticona', '2022-09-07', 'naya@gmail1.com', 'Nayana Ticona',1);
